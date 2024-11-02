@@ -87,7 +87,7 @@ class _DrawFormWidgetState extends State<DrawFormWidget> {
                   style: AppFontStyles.h3.copyWith(color: AppColors.secondary),
                 ),
               ),
-            const SizedBox(height: 24),
+            const SizedBox(height: 20),
             Image.asset(
               ImageConstants.plane,
               height: 140,
